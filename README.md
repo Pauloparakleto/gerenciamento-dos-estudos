@@ -1,4 +1,4 @@
-# Studing Manager
+# Studying Manager
 
 The developer life has many technology to learn. This is my personal repository to manage my technical debits.
 If you are a Tech Recruiter, it's a greate place for you to know about what I'm currently taking to understand.
