@@ -1,0 +1,24 @@
+{
+  "name": "gerenciamento-dos-estudos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && node index.js",
+    "test": "echo please specify a test script!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pauloparakleto/gerenciamento-dos-estudos"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pauloparakleto/gerenciamento-dos-estudos"
+  },
+  "homepage": "https://github.com/Pauloparakleto/gerenciamento-dos-estudos",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
