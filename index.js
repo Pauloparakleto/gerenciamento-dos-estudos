@@ -1,7 +1,7 @@
 const cowsay = require("cowsay");
 
 console.log(cowsay.say({
-    text : "Hello World",
+    text : "Hello World!",
     e : "oO",
     T : "U "
 }));
